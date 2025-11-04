@@ -3,6 +3,15 @@
 ## Assignment 1: Participation (Ongoing)
 
 ### Requirements:
+Refer attached my classworks with following files attached 
+
+Classwork_1.ipynb
+Classwork_2.ipynb
+Classwork_2A.ipynb
+Classwork_3.ipynb
+Classwork_Plotly.ipynb
+test.png
+XKCD_Colors.png
 
 - During every class, follow along with sample code from the slides. All code that you should be running in Python is formatted as follows:
   
