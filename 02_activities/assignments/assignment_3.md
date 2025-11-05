@@ -9,21 +9,49 @@
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
 
+    Python & Excel 
+
     > Who is your intended audience? 
     
+    The audience for this project is anyone interested in Ontario’s craft beer industry, like small business owners, tourism groups, or beer lovers. The charts show where most breweries are located and which beer types are most common, in a simple and easy-to-understand way.
+
     > What information or message are you trying to convey with your visualization? 
+
+    The message of my visualization is to show how Ontario’s beer industry is spread across the province. It highlights which cities have the most breweries and what types of beer (like Ale, Lager, or Stout) are the most common. The goal is to give a clear picture of where beer production is strong and what kinds of beer are most popular in Ontario.
     
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
     
+    I focused on keeping my visualizations clear, simple, and easy to read.
+
+I used bar charts and pie charts because they show comparisons and proportions clearly.
+
+I chose bright but not harsh colors to make each category stand out.
+
+I added titles, axis labels, and data labels so viewers can easily understand what each chart shows.
+
+I used consistent fonts and spacing to make the visuals look clean and professional.
+
+I also made sure to limit clutter by only showing key information, helping the audience focus on the main message — where most breweries are located and which beer types are most common.
+
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+
+    I made my visualizations reproducible by using Python in Jupyter Notebook so anyone can run the same code and get the same results. I added clear comments and file paths to make it easy to follow. The Excel chart is less reproducible since it needs manual steps, but I saved the data as a CSV file so others can recreate it easily.
     
     > How did you ensure that your data visualization is accessible?  
+
+    I made my visualizations easy to understand by using clear titles, labels, and legends. I used simple fonts and high-contrast colors so the charts are easy to read for everyone
     
     > Who are the individuals and communities who might be impacted by your visualization?  
+
+    Small brewery owners, local businesses, consumers, and tourism groups may be impacted by my visualization, as it shows where breweries are growing and how they support local communities.
     
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
+
+    I chose features that best explained my topic, like manufacturer name, brand name, and beer type. I excluded extra details that didn’t add value, such as company IDs or duplicate records, to keep the charts clear and focused on the main message.
     
     > What ‘underwater labour’ contributed to your final data visualization product?
+
+    The hidden work included cleaning data, removing duplicates, grouping beer types, and adjusting the charts’ colors and layout to make them clear and easy to read.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
